@@ -1,5 +1,6 @@
-## tmp
+## not transferred files and directories
 tmp/
+app/
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
