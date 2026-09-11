@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="keywords" content="unix" />
-    <title>Hilo Yamamoto, Ph.D.</title>
+    <title>yamagen.sdf.org</title>
+    <link rel="icon" href="./images/githubyamagenfavicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="./images/githubyamagenfavicon.ico" type="image/x-icon" />
     <link href="css/style.css" rel="stylesheet" />
     <style>
       .stamp {
@@ -30,11 +32,8 @@
     <span class="large-font">yamagen.sdf.org</span> <br />
     Hilofumi Yamamoto, Ph.D. in Linguistics <br />
     <img src="./images/githubicon01.svg" alt="TAI-tech" width="140" />
-    <a href="http://yamagen.sdf.org/">
-      <img src="./images/qr20260112131327366.png" alt="qr-code" width="140" />
-    </a>
-    <br />
-    <span class="stamp">Last change: 2026/01/12-14:06:19.</span> <br />
+    <img src="./images/qr20260112131327366.png" alt="qr-code" width="140" /> <br />
+    <span class="stamp">Last change: 2026/01/13-23:15:42.</span> <br />
 
     <?php echo file_get_contents("content.html"); ?>
 
